@@ -1,0 +1,66 @@
+Aula 01 - Variables
+
+xcode --> IDE do Swift
+download xcode
+-> get started with a playground
+create a new xcode project
+
+name
+platform: IOS
+
+Save
+
+
+Variable
+
+- For now, a variable holds some data
+
+var str = "Hello, playground"
+
+var -> use to declared a new variable
+str -> Name of variable
+
+"Hello, playground" -> data
+
+= -> Assignment Operator
+
+- The assignment operator assigns what's on the right side into the left side
+
+\n -> new line
+
+
+var a = 1
+var b = 1
+
+print(a + b)
+
+Operações aritméticas com variáveis
+
+não pode declarar a mesma variável mais de uma vez
+
+não pode mudar o tipo da variável sem usar comando
+
+var str = "Hello, playground"
+str = 1
+error
+
+Constants
+
+Like a variable except it cant't be reassigned new data after thefirst assignenment.
+
+Uses the "let" keyword instead
+
+why will I use a Constants if its functions are more limited?
+
+para ter mais eficiência no programa, mais velocidade.
+
+para facilitar em perceber erros futuros, é uma parada mais ou menos assim.
+
+
+
+
+
+
+
+
+
