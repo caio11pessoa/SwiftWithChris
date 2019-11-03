@@ -79,7 +79,34 @@ então aquela variável assume aquele tipo armazenado
 
 str = String(29)
 
+AULA 03	- IfStants
 
+comando if, só executa uma parte do código se aquela condição for verdadeira
+
+syntax:
+if condition{
+	some code
+}
+else if condition2{
+	some code
+}
+else{
+	some code
+}
+
+if the first condition is True, the second condition is ignored.
+
+comparison operators:
+> 
+<
+>=
+<=
+==
+!=
+! -> not
+
+&& -> and
+|| -> Or
 
 
 
