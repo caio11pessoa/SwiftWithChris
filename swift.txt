@@ -108,8 +108,18 @@ comparison operators:
 && -> and
 || -> Or
 
+Aula 04 - Switch statements
 
+switchvalue to consider{
+	case value1:
+		some code
+	case value2, value3:
+		some code
+	default:
+		some code
+}
 
+use a comma to add a case.(or)
 
 
 
