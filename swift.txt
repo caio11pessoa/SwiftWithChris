@@ -56,6 +56,31 @@ para ter mais eficiência no programa, mais velocidade.
 
 para facilitar em perceber erros futuros, é uma parada mais ou menos assim.
 
+Aula 02 - Data Types
+
+String: Piece of text
+
+Int: Whole numbers positive and negative
+
+Float: Decimal numbers
+
+Double: Large decimal numbers
+
+Bool: True or False
+
+when you declare a variable
+opcional way to declare
+var str:String
+
+- se não colocar o tipo da variável você precisa colocar alguma coisa nela
+então aquela variável assume aquele tipo armazenado
+
+- uma variável pode ser convertida em outro tipo
+
+str = String(29)
+
+
+
 
 
 
