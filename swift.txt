@@ -139,3 +139,28 @@ caso não precise utilizar a variável do loop, basta criar o loop com _ ao inv�
 se declarar uma variável dentro de um escoupo, ela só funcionara naquele nível ou níveis mais abaixo
 
 Você não pode redeclara uma variável, porém, dentro do looping é possível, pois ele declara a primeira vez e as próximas simplesmente ignora o var.
+
+Aula 6 - LoopsPart2
+Syntax:
+	while condition {
+		some code
+	}
+
+Repeat-While Loop
+
+	repeat{
+		some code
+	}while condition
+
+
+
+
+
+
+
+
+
+
+
+
+
