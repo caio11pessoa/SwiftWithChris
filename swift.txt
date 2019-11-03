@@ -121,8 +121,21 @@ switchvalue to consider{
 
 use a comma to add a case.(or)
 
+Aula 05 - Loops part 1
+Syntax:
 
+	for counter in lower...upper{
+		some code
+	}
+a variável counter só será usada dentro do loop
 
+lower...upper -> de ... para
 
+for _ in 1...5{
+  print("Hello")
+}
+caso não precise utilizar a variável do loop, basta criar o loop com _ ao invés do nome da variável
 
+se declarar uma variável dentro de um escoupo, ela só funcionara naquele nível ou níveis mais abaixo
 
+Você não pode redeclara uma variável, porém, dentro do looping é possível, pois ele declara a primeira vez e as próximas simplesmente ignora o var.
