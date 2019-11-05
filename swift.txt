@@ -166,10 +166,37 @@ Basic Function Syntax
 
 se voce declarar uma variável dentro de uma função o escopo dela se mantém naquela função, somente.
 
+Aula 08 - Functions Part2
+
+Method/Function
+-> Methods and Functions are two different names for the same thing!
+
+Function Syntax: Return Values
+
+	func name()-> DataType{
+
+		some code
+		return someValue
+	}
+
+Function Syntax: 1 Parameter
+
+	func name(argumentLabel parameterName:DataType){
+
+	some code
+
+	}
 
 
+name(argumentLabel: Data)
+
+Function Syntax: Multiple Parameters
+
+func name(arg1 param1: DataType, arg2 param2:DataType){
+
+	some code
+
+}
 
 
-
-
-
+-> Não precisa necessariamente declarar argumentLabel voce pode colocar no lugar _
