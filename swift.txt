@@ -200,3 +200,36 @@ func name(arg1 param1: DataType, arg2 param2:DataType){
 
 
 -> Não precisa necessariamente declarar argumentLabel voce pode colocar no lugar _
+
+Aula 09 - ClassesPart1
+
+Class Syntax
+	class name{
+		
+	
+	}
+
+the name of Class begins with captal letters.(DataType)
+
+Classes and Objects
+
+-> A class definition is a like a template or blueprint
+
+When you crate an actual tangible instance of the class that instance is called an "object"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
