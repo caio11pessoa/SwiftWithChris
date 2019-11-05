@@ -154,8 +154,17 @@ Repeat-While Loop
 
 
 
+AULA 07 - Functions Part 1
 
+-> A block of code with given name that can be executed on demand by calling that name.
 
+Basic Function Syntax
+
+	func name(){
+		some code
+	}
+
+se voce declarar uma variável dentro de uma função o escopo dela se mantém naquela função, somente.
 
 
 
