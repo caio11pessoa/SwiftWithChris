@@ -215,10 +215,32 @@ Classes and Objects
 
 -> A class definition is a like a template or blueprint
 
-When you crate an actual tangible instance of the class that instance is called an "object"
+When you create an actual tangible instance of the class that instance is called an "object"
+
+Aula 10 - Classes Part2 (inheritance)
+
+Class Inheritance
+
+Car		->Know as the superclass (or parent class) of futurecar
+^^
+||
+Futurecar	->Know as the subclass of car
+
+Syntax
+
+class Name : Parent {
+	new code
+}
 
 
+use override to reinstate a method
 
+  override func drive(){
+    print("Driving at \(topSpeed + 50)")
+  }
+
+super.function name
+para acessar a classe mãe
 
 
 
